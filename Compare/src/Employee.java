@@ -23,6 +23,7 @@ public class Employee implements Comparable<Employee> {
         return age;
     }
 
+    // Test Salary
     public long getSalary() {
         return salary;
     }
