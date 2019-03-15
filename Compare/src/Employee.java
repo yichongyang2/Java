@@ -18,7 +18,6 @@ public class Employee implements Comparable<Employee> {
         return name;
     }
 
-	// Teat Age on develop
     public int getAge() {
         return age;
     }
