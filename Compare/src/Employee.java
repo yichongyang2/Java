@@ -27,8 +27,8 @@ public class Employee implements Comparable<Employee> {
     public long getSalary() {
         return salary;
     }
-
-    // Comment the constructor
+  
+    // Edit and Comment the constructor
     public Employee(int id, String name, int age, int salary) {
         this.id = id;
         this.name = name;
